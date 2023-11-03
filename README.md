@@ -1,2 +1,2 @@
 # starknet
-My projects on Starknet Ecosystem
+My projects on Starknet ecosystem
