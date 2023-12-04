@@ -1,0 +1,8 @@
+{
+  "name": "starknet-studio",
+  "version": "1.0.0",
+  "description": "toolkit to build faster  with cairo",
+  "main": "index.js",
+  "author": "0xefrain",
+  "license": "MIT"
+}
